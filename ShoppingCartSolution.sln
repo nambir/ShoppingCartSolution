@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.Infrastructure", "ShoppingCart.Infrastructure\ShoppingCart.Infrastructure.csproj", "{A5BB92CF-5970-4CB2-9482-9ABD12F95B6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.Core", "ShoppingCart.Core\ShoppingCart.Core.csproj", "{A3FCB9E7-32A5-424F-9274-2B4B9E9F9C21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.API", "ShoppingCart.API\ShoppingCart.API.csproj", "{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeExplanationAndInterviewQuestions", "CodeExplanationAndInterviewQuestions", "{C7A6B017-9310-45F6-BB8F-251A71580766}"
+	ProjectSection(SolutionItems) = preProject
+		CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown = CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown
+		CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md = CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md
+		Class1.vb = Class1.vb
+		CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md = CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md
+		CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md = CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BB92CF-5970-4CB2-9482-9ABD12F95B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BB92CF-5970-4CB2-9482-9ABD12F95B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BB92CF-5970-4CB2-9482-9ABD12F95B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BB92CF-5970-4CB2-9482-9ABD12F95B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FCB9E7-32A5-424F-9274-2B4B9E9F9C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FCB9E7-32A5-424F-9274-2B4B9E9F9C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FCB9E7-32A5-424F-9274-2B4B9E9F9C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FCB9E7-32A5-424F-9274-2B4B9E9F9C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED061E7-6700-4AA1-B9AF-E234DBCBE15D}
+	EndGlobalSection
+EndGlobal
