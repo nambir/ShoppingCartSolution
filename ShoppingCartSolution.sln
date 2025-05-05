@@ -12,10 +12,25 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeExplanationAndInterviewQuestions", "CodeExplanationAndInterviewQuestions", "{C7A6B017-9310-45F6-BB8F-251A71580766}"
 	ProjectSection(SolutionItems) = preProject
 		CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown = CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown
-		CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md = CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md
 		Class1.vb = Class1.vb
+		class2.cs = class2.cs
+		CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md = CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md
 		CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md = CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md
 		CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md = CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vb6andVb_net", "vb6andVb_net", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		Add.vb = Add.vb
+		GetName.vb = GetName.vb
+		PassObjects.vb = PassObjects.vb
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPS", "OOPS", "{179709E5-5194-40B6-AFC7-6AAF403F0824}"
+	ProjectSection(SolutionItems) = preProject
+		1_Encapsulation.cls = 1_Encapsulation.cls
+		2_Polymorphism.cls = 2_Polymorphism.cls
+		3_Inheritance_NotSupported.cls = 3_Inheritance_NotSupported.cls
 	EndProjectSection
 EndProject
 Global
@@ -39,6 +54,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{179709E5-5194-40B6-AFC7-6AAF403F0824} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8ED061E7-6700-4AA1-B9AF-E234DBCBE15D}
