@@ -12,7 +12,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeExplanationAndInterviewQuestions", "CodeExplanationAndInterviewQuestions", "{C7A6B017-9310-45F6-BB8F-251A71580766}"
 	ProjectSection(SolutionItems) = preProject
 		CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown = CodeExplanationAndInterviewQuestions\1-grok-ShoppingCartApplication.markdown
-		C:\Users\CIPL0728\Downloads\1-csharp_basics.md = C:\Users\CIPL0728\Downloads\1-csharp_basics.md
 		CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md = CodeExplanationAndInterviewQuestions\EF_Core_Interview_QA.md
 		CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md = CodeExplanationAndInterviewQuestions\SOLID and other DesignPatterns.md
 		CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md = CodeExplanationAndInterviewQuestions\SOLID_Explained_With_Comments.md
@@ -22,7 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vb6andVb_net", "vb6andVb_ne
 	ProjectSection(SolutionItems) = preProject
 		Add.vb = Add.vb
 		GetName.vb = GetName.vb
-		InterviewQuestions.md = InterviewQuestions.md
 		PassObjects.vb = PassObjects.vb
 	EndProjectSection
 EndProject
