@@ -22,7 +22,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vb6andVb_net", "vb6andVb_ne
 	ProjectSection(SolutionItems) = preProject
 		Add.vb = Add.vb
 		GetName.vb = GetName.vb
-		InterviewQuestions.md = InterviewQuestions.md
 		PassObjects.vb = PassObjects.vb
 	EndProjectSection
 EndProject
