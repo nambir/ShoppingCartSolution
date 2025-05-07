@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPS", "OOPS", "{179709E5-5
 		3_Inheritance_NotSupported.cls = 3_Inheritance_NotSupported.cls
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWinForms.UI", "MyWinForms.UI\MyWinForms.UI.csproj", "{EE97510A-F848-4E38-BBAB-27FB60ED5250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47CC73DD-8E6D-42EA-8B34-6CC0C6C1434C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE97510A-F848-4E38-BBAB-27FB60ED5250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE97510A-F848-4E38-BBAB-27FB60ED5250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE97510A-F848-4E38-BBAB-27FB60ED5250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE97510A-F848-4E38-BBAB-27FB60ED5250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
